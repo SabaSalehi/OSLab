@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0022d4df-571e-4278-b431-d5eeb7584d1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OSLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Lab1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab1/ThreadEx1.java" afterDir="false" />
+    <list default="true" id="0022d4df-571e-4278-b431-d5eeb7584d1c" name="Changes" comment="lab1">
+      <change afterPath="$PROJECT_DIR$/Instructions/lab1 Slides.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instructions/lab1 Slides.key" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/sabasalehi/Documents/OSLab/OSLab/src/Lab1",
+    "last_opened_file_path": "/Users/sabasalehi/Documents/OSLab/OSLab/Instructions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +51,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Instructions" />
       <recent name="$PROJECT_DIR$/src/Lab1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -105,8 +100,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663280112956</updated>
-      <workItem from="1663280116120" duration="1446000" />
+      <workItem from="1663280116120" duration="2311000" />
     </task>
+    <task id="LOCAL-00001" summary="lab1">
+      <created>1663283747234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663283747234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab1" />
   </component>
 </project>
