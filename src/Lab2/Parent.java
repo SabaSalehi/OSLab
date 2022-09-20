@@ -3,8 +3,12 @@ package Lab2;
 import java.util.ArrayList;
 
 public class Parent {
-    private ArrayList<Integer> grantedPermission;
+    private ArrayList<Integer> grantedPermission = new ArrayList<>();
     private Parent partner;
+
+    public void setPartner(Parent p) {
+        this.partner = p;
+    }
 
     // TODO: Take care of synchronization!
     public boolean askPermission(int childId) {

@@ -11,6 +11,9 @@ public class Lab2 {
         Parent mom = new Parent();
         Parent dad = new Parent();
 
+        mom.setPartner(dad);
+        dad.setPartner(mom);
+
         // List of children
         List<Child> children = IntStream
                 .range(1, NUM_CHILDREN + 1)
