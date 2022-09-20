@@ -12,12 +12,11 @@ public class Child {
     }
 
     public void askParentsPermission() {
+        // Some children prefer asking their moms for permission!
         if (id % 2 == 0) {
             mom.askPermission(id);
-            dad.askPermission(id);
         } else {
             dad.askPermission(id);
-            mom.askPermission(id);
         }
     }
 }
