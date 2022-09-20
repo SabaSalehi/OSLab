@@ -17,6 +17,9 @@ public class Parent {
         // should never give permission to the same child twice!
         // Before giving permission to the child, the parent should also first
         // consult his/her partner (by calling askPermissionAsParent)
+        // TODO: Before consulting his/her partner, the parent should take a
+        // 10ms pause (this further highlights the problem and makes it easier for us
+        // to produce a deadlock)
         return false;
     }
 
