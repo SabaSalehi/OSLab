@@ -1,6 +1,39 @@
 # Lab 2 - Deadlocks
 
-Read up on deadlocks [here](https://www.tutorialspoint.com/java/java_thread_deadlock.htm). Once we've obtained a sufficient understanding of deadlocks, we shall attempt to produce one.
+How does a deadlock occur? Imagine that we have two locks (the below shall be presented in pseudocode).
+```Java
+Lock lock1
+Lock lock2
+```
+
+And now imagine that we have two threads that look something like this
+```Java
+void thread1() {
+    obtainLock(lock1);
+    obtainLock(lock2);
+    
+    // Do meaningful work here!
+
+    releaseLock(lock2);
+    releaseLock(lock1);
+}
+
+void thread2() {
+    obtainLock(lock2);
+    obtainLock(lock1);
+    
+    // Do meaningful work here!
+
+    releaseLock(lock1);
+    releaseLock(lock2);
+}
+
+```
+
+It is trivial to see how the threads may end up competing to obtain the same lock, and when this occurs we have a **deadlock**.
+
+
+Also consider reading up more on deadlocks [here](https://www.tutorialspoint.com/java/java_thread_deadlock.htm). Now that we've obtained a sufficient understanding of deadlocks, we shall attempt to produce one.
 
 ## Programming Problem
 We shall be modeling a day in the lives of a family with lots of children. 
