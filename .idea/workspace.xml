@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0022d4df-571e-4278-b431-d5eeb7584d1c" name="Changes" comment="lab1">
+      <change afterPath="$PROJECT_DIR$/src/Lab3/part1/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/part2/FirstReadersWritersProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/part3/SecondReadersWritersProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/part4/DiningPhilosophers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Parent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +61,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab2.Lab2">
-    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Lab1" />
+  <component name="RunManager" selected="Application.SecondReadersWritersProblem">
+    <configuration name="DiningPhilosophers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.part4.DiningPhilosophers" />
       <module name="OSLab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab3.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,9 +75,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab2" />
+    <configuration name="FirstReadersWritersProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.part2.FirstReadersWritersProblem" />
       <module name="OSLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab3.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Test1" />
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.part1.ProducerConsumer" />
       <module name="OSLab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Lab3.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondReadersWritersProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.part3.SecondReadersWritersProblem" />
+      <module name="OSLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab3.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,10 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondReadersWritersProblem" />
+        <item itemvalue="Application.FirstReadersWritersProblem" />
+        <item itemvalue="Application.ProducerConsumer" />
+        <item itemvalue="Application.DiningPhilosophers" />
         <item itemvalue="Application.Lab2.Lab2" />
-        <item itemvalue="Application.Lab2" />
-        <item itemvalue="Application.Lab1" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +147,7 @@
       <updated>1663280112956</updated>
       <workItem from="1663280116120" duration="2311000" />
       <workItem from="1663713987408" duration="1533000" />
+      <workItem from="1664475240138" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <created>1663283747234</created>
