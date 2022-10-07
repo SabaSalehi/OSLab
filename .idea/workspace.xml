@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0022d4df-571e-4278-b431-d5eeb7584d1c" name="Changes" comment="lab1">
-      <change afterPath="$PROJECT_DIR$/src/Lab3/part1/ProducerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/part2/FirstReadersWritersProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/part3/SecondReadersWritersProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3/part4/DiningPhilosophers.java" afterDir="false" />
+    <list default="true" id="916f9707-7649-4c36-a633-99212d2e2919" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab4/Lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Lab4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +27,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Ep6Jwci4q3osvsEfR2OwcQWD0N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2FmJkAmXLsaOL1VC9emi0pcX1cb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,123 +37,24 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jamestjw/Documents/myprojects/OSLab&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Instructions" />
-      <recent name="$PROJECT_DIR$/src/Lab1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.SecondReadersWritersProblem">
-    <configuration name="DiningPhilosophers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.part4.DiningPhilosophers" />
-      <module name="OSLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab3.part4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstReadersWritersProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.part2.FirstReadersWritersProblem" />
-      <module name="OSLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab3.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab2.Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab2.Lab2" />
-      <module name="OSLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.part1.ProducerConsumer" />
-      <module name="OSLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab3.part1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondReadersWritersProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.part3.SecondReadersWritersProblem" />
-      <module name="OSLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab3.part3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SecondReadersWritersProblem" />
-        <item itemvalue="Application.FirstReadersWritersProblem" />
-        <item itemvalue="Application.ProducerConsumer" />
-        <item itemvalue="Application.DiningPhilosophers" />
-        <item itemvalue="Application.Lab2.Lab2" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0022d4df-571e-4278-b431-d5eeb7584d1c" name="Changes" comment="" />
-      <created>1663280112956</created>
+      <changelist id="916f9707-7649-4c36-a633-99212d2e2919" name="Changes" comment="" />
+      <created>1665091468803</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663280112956</updated>
-      <workItem from="1663280116120" duration="2311000" />
-      <workItem from="1663713987408" duration="1533000" />
-      <workItem from="1664475240138" duration="813000" />
+      <updated>1665091468803</updated>
+      <workItem from="1665091471301" duration="825000" />
+      <workItem from="1665092922138" duration="461000" />
+      <workItem from="1665103338639" duration="5000" />
     </task>
-    <task id="LOCAL-00001" summary="lab1">
-      <created>1663283747234</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1663283747234</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,9 +70,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab1" />
   </component>
 </project>
