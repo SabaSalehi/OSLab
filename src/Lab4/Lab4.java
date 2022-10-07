@@ -6,7 +6,6 @@ public class Lab4 {
     //TODO: make sure to use the appropriate semaphores so that the speakers give their speech in increasing order of their id
 
     public static void main(String args[]) {
-//        Seminar seminar = new Seminar();
         for (int i = 1; i <= N; i++) {
             new Speaker(i).start();
         }

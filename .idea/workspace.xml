@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916f9707-7649-4c36-a633-99212d2e2919" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="916f9707-7649-4c36-a633-99212d2e2919" name="Changes" comment="lab4 code">
       <change beforePath="$PROJECT_DIR$/src/Lab4/Lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4/Lab4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +51,16 @@
       <updated>1665091468803</updated>
       <workItem from="1665091471301" duration="825000" />
       <workItem from="1665092922138" duration="461000" />
-      <workItem from="1665103338639" duration="5000" />
+      <workItem from="1665103338639" duration="44000" />
     </task>
+    <task id="LOCAL-00001" summary="lab4 code">
+      <created>1665103360277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665103360277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab4 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4 code" />
   </component>
 </project>
